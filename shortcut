@@ -1,0 +1,4 @@
+git pull  # pull the latest remote
+git add . #add changes to the folder
+git commit -m 'message' #
+git push -u origin master
